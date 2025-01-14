@@ -8,10 +8,17 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      ****
+
+
+      Welcome to **Tachyon**, a premier destination for mastering physics and
+      achieving academic excellence. At Tachyon, we are dedicated to empowering
+      students with the knowledge, skills, and confidence needed to excel in
+      competitive exams like **JEE Mains /Advanced/ Neet.**
+
+
+
     actions:
       - label: Get started
         altText: ''
