@@ -8,17 +8,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Built for JEE/NEET
-    text: >+
-      ****
+    text: >
+      ***
 
 
-      Welcome to **Tachyon**, a premier destination for mastering physics and
+      Welcome to **Tachyon**, a premier destination for mastering science and
       achieving academic excellence. At Tachyon, we are dedicated to empowering
       students with the knowledge, skills, and confidence needed to excel in
       competitive exams like **JEE Mains /Advanced/ Neet.**
-
-
-
     actions:
       - label: Get started
         altText: ''
