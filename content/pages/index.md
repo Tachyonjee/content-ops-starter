@@ -7,7 +7,7 @@ sections:
       text: Tachyon
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Built for JEE/NEET
     text: >+
       ****
 
